@@ -21,17 +21,30 @@ I'm a Full-Stack JavaScript developer with a Bachelor's degree in Software Engin
 </div>
 <br />
 
-<h2>💻 <b>Top Languages</b></h2>
-
-<img style="max-height:200rem" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlSirang&hide_progress=true&langs_count=12&theme=nord"/>
-<br />
-
-<!--- stats & Trophy (start) -->
 <h2>🚀 <b>GitHub Statistics</b></h2>
-  <img style="max-height:200rem" height='100%' src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlSirang&show_icons=true&include_all_commits=true&count_private=true&theme=nord"/>
+
+<div style="text-align:center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlSirang&count_private=true&theme=dracula"/>
+  <div style="display:flex;gap:5px;flex-wrap:wrap;justify-content:center;">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlSirang&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula" height="200rem"/>
+    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AlSirang&hide_progress=true&langs_count=12&hide_border=true&theme=dracula" height="200rem"/>
+  </div>
+</div>
 <br />
 
 <!--- trophy (start) -->
 <h2>🏆 <b>GitHub Trophies</b></h2>
-<img src="https://github-profile-trophy.vercel.app/?username=AlSirang&row=1&column=7&margin-h=15&margin-w=5&theme=nord" alt="TROPHY" />
+<div style="text-align:center;">
+  <picture>
+    <!-- Source for tablets with a width between 0 and 1024px -->
+    <source srcset="https://github-profile-trophy.vercel.app/?username=AlSirang&row=2&column=4&margin-h=15&margin-w=5&theme=dracula"
+            media="(max-width: 1024px)">
+    <!-- Source for desktop devices with a width of 1025px or more -->
+    <source srcset="https://github-profile-trophy.vercel.app/?username=AlSirang&row=1&column=7&margin-h=15&margin-w=5&theme=dracula"
+            media="(min-width: 1025px)">
+    <!-- Fallback image if the browser doesn't support the <picture> element -->
+    <img src="https://github-profile-trophy.vercel.app/?username=AlSirang&row=1&column=7&margin-h=15&margin-w=5&theme=dracula"
+          alt="TROPHY">
+  </picture>
+</div>
 <br />
