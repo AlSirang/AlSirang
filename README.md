@@ -5,13 +5,13 @@ Hi, I am Bashir
 
 <h2>🛠 <b>Languages and Tools</b></h2>
 <div style="display:flex;gap:3px;">
-<code><img src="./icons/javascript.png"height='40px'></code>
-<code><img src="./icons/typescript.png" height='40px'></code>
-<code><img src="./icons/react.png" height='40px'></code>
-<code><img src="./icons/nodejs.png" height='40px'></code>
-<code><img src="./icons/expressjs.svg"height='40px'></code>
-<code><img src="./icons/mongodb.png" height='40px'></code>
-<code><img src="./icons/git.svg" height='40px'></code>
+  <img src="./icons/javascript.png"height='40px'>
+  <img src="./icons/typescript.png" height='40px'>
+  <img src="./icons/react.png" height='40px'>
+  <img src="./icons/nodejs.png" height='40px'>
+  <img src="./icons/expressjs.svg"height='40px'>
+  <img src="./icons/mongodb.png" height='40px'>
+  <img src="./icons/git.svg" height='40px'>
 </div>
 
 <h2>💻 <b>Top Languages</b></h2>
