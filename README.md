@@ -4,13 +4,13 @@ Hi, I am Bashir
 </h1>
 
 <h2>Languages and Tools</h2>
-<img src="./icons/javascript.png"height='60px'>
-<img src="./icons/typescript.png" height='60px'>
-<img src="./icons/react.png" height='60px'>
-<img src="./icons/nodejs.png" height='60px'>
-<img src="./icons/expressjs.svg"height='60px'>
-<img src="./icons/mongodb.png" height='60px'>
-<img src="./icons/git.svg" height='60px'>
+<code><img src="./icons/javascript.png"height='60px'></code>
+<code><img src="./icons/typescript.png" height='60px'></code>
+<code><img src="./icons/react.png" height='60px'></code>
+<code><img src="./icons/nodejs.png" height='60px'></code>
+<code><img src="./icons/expressjs.svg"height='60px'></code>
+<code><img src="./icons/mongodb.png" height='60px'></code>
+<code><img src="./icons/git.svg" height='60px'></code>
 
 <h2>Top Languages</h2>
 <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlSirang&hide_progress=true&langs_count=12&theme=nord"/>
