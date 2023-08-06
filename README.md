@@ -2,8 +2,9 @@
 Hi, I am Bashir
 <img src="./gifs//wave.gif" width="35">
 </h1>
-
+<b>  
 I'm a Full-Stack JavaScript developer with a Bachelor's degree in Software Engineering. Besides JavaScript, my expertise includes Solidity and blockchain development, where I see the potential to revolutionize diverse industries through decentralization. Continuous learning fuels my curiosity in the ever-evolving world of software development.🌐🚀
+</b>
 
 <h2>🛠 <b>Languages and Tools</b></h2>
 <div style="display:flex;gap:5px;">
